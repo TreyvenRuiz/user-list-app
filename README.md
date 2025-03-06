@@ -19,7 +19,7 @@ This is a modern **Single Page Application (SPA)** built using **React and TypeS
 
 ### **1️⃣ Clone the Repository**
 ```bash
-git clone https://github.com/TreyvonRuiz/user-list-app.git
+git clone https://github.com/TreyvenRuiz/user-list-app.git
 cd user-list-app
 ```
 
